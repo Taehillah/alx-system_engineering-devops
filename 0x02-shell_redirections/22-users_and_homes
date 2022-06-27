@@ -1,0 +1,2 @@
+#!/bin/bash
+ut -d /etc/passwd | sort
